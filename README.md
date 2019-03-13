@@ -1,4 +1,4 @@
-#Bakery Order System
+# Bakery Order System
 
 This system uses javascript to generate and print out a receipt for a customers order.
 
